@@ -1,0 +1,22 @@
+.navbar .nav {
+  float: none;
+}
+
+.navbar .nav, .navbar .nav > li {
+  text-align:center;
+}
+
+.navbarDate {
+  font-size:100%;
+  color: rgba(255, 255, 255, 0.5);
+  width: 100%;
+  text-align: right;
+  margin-right: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbarClock {
+  font-size:225%;
+  color: rgb(255, 255, 255);
+  font-family: 'Open Sans', sans-serif;
+}

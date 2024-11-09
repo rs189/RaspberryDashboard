@@ -1,0 +1,9 @@
+.widget-weather-temp-float {
+  margin-top: 6px;
+}
+
+.widget-weather-temp-text {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 700;
+  margin-left: -20px;
+}

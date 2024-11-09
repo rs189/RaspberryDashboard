@@ -1,0 +1,15 @@
+.widget-ns-span {
+  font-weight: 700;
+  margin-left: -20px;
+}
+
+.widget-ns-title {
+  color: rgba(255, 255, 255, 0.5);
+  word-wrap: normal;
+  white-space: nowrap;
+}
+
+.widget-ns-subtitle {
+  color: rgba(255, 255, 255, 0.25);
+  font-style: italic;
+}

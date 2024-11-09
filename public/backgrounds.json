@@ -1,0 +1,10 @@
+[
+  {
+    "image": "backgrounds/1.png",
+    "dark": false
+  },
+  {
+    "image": "backgrounds/2.png",
+    "dark": true
+  }
+]

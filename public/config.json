@@ -1,0 +1,54 @@
+{
+  "backgroundTimeout": 10,
+  "blurEnabled": true,
+  "pages": [
+    {
+      "widgets": [
+        {
+          "module": "WidgetWeather",
+          "type": "WidgetWeather",
+          "title": "Weather",
+          "apiKey": "YOUR_API_KEY",
+          "latitude": "YOUR_LATITUDE",
+          "longitude": "YOUR_LONGITUDE"
+        },
+        {
+          "module": "WidgetNS",
+          "type": "WidgetNSDepartures",
+          "title": "Departures",
+          "apiKey": "YOUR_API_KEY",
+          "uicCode": "YOUR_UIC_CODE"
+        },
+        {
+          "module": "WidgetNS",
+          "type": "WidgetNSArrivals",
+          "title": "Arrivals",
+          "apiKey": "YOUR_API_KEY",
+          "uicCode": "YOUR_UIC_CODE"
+        }
+      ]
+    },
+    {
+      "widgets": [
+        {
+          "module": "WidgetFlashcard",
+          "type": "WidgetFlashcard",
+          "title": "Flashcard",
+          "source": "/japanese.json"
+        },
+        {
+          "module": "WidgetFlashcard",
+          "type": "WidgetFlashcard",
+          "title": "Flashcard",
+          "source": "/japanese.json"
+        },
+        {
+          "module": "WidgetFlashcard",
+          "type": "WidgetFlashcard",
+          "title": "Flashcard",
+          "source": "/japanese.json"
+        }
+      ]
+    }
+  ]
+}
