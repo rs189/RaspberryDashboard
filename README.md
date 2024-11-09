@@ -30,3 +30,7 @@ By default, Raspberry Dashboard comes with 3 widgets, a Weather information widg
 ## Screenshots
 
 ![Screenshot](https://github.com/rs189/RaspberryDashboard/blob/main/dist/screenshot.png?raw=true)
+
+# Licence
+
+This project is licensed under the MIT licence.
